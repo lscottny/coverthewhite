@@ -2,6 +2,7 @@
 layout: page
 title: Art Supplies
 permalink: /art-supplies/
+navigation_weight: 4
 ---
 
 **If you’re a first-time painter:**

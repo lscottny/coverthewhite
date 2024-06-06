@@ -2,6 +2,7 @@
 layout: page
 title: Student's Art
 permalink: /students-art/
+navigation_weight: 5
 ---
 
 

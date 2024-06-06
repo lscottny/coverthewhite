@@ -2,6 +2,7 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
+navigation_weight: 2
 ---
 
 Cover-the-White painting classes are based on Sam Feinstein’s teaching model, which he created while studying with Hans Hofmann over many decades.

@@ -2,6 +2,7 @@
 layout: page
 title: Schedule and Fees
 permalink: /schedule-and-fees/
+navigation_weight: 3
 ---
 **Class Schedules**
 
