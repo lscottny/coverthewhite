@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
 ### Philosophy
 
 Whether you have never painted before or have painted most of your life, Cover the White classes are personalized for you while occurring in group settings. Students progress at their own pace but benefit from sharing classmates’ understandings.
