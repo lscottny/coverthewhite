@@ -5,6 +5,6 @@ permalink: /contact/
 ---
 
 
-To contact us, use the email below:
+Noreen Storch, Instructor     noreenstorch@gmail.com   (646-505-9224 call or text)
 
-example@gmail.com
+Scott Storch, Co-instructor   lscottny@outlook.com    (646-326-2803 call or text)
