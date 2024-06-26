@@ -24,7 +24,7 @@ May 2002 | Cork Gallery | New York City
 July 2003 | Liberty Museum | Liberty, NY  
 Sept 2003 | Common Ground | New York City  
 Oct 2003 | Cork Gallery | New York City  
-
+July 2024 | West Side Arts Coalition Vivid Memories | New York City
 
 #### Private  Collectors include:  
 Adam F., Denver, Colorado  
