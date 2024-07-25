@@ -22,8 +22,8 @@ title: Cover-the-White
 email: noreenstorch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   painting classes for artists and art lovers
-baseurl: "/coverthewhite" # the subpath of your site, e.g. /blog
-url: "https://lscottny.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://coverthewhite.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
