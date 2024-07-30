@@ -4,6 +4,8 @@ title: Bio
 permalink: /bio/
 ---
 
+Noreen Findlan Storch, Instructor
+
 ### Artist’s Statement
 
 Noreen creates intricate, powerful landscapes and abstract works of art, infusing canvases with color and light which transcend the material plane and allow viewers to experience an intimate connection to Nature as energy. Noreen’s art reflects her deep reverence for the natural world and creative spirit.  
@@ -31,3 +33,16 @@ Adam F., Denver, Colorado
 Christine C., Atlanta, Georgia  
 Eugenia A., Bronx, New York  
 Robert E., Switzerland  
+
+
+#### See Examples of her Artwork below:
+
+![birth tree painting](./images/birch.jpeg)
+
+![dog](./images/dog.jpeg)
+
+![abstract1](./images/abstract1.jpeg)
+
+![abstract2](./images/abstract2.jpeg)
+
+![abstract3](./images/abstract3.jpeg)

@@ -6,7 +6,7 @@ navigation_weight: 5
 ---
 
 
-Below are photos taken during a previous Cover the White class as well as a selection of artwork done by students in past classes.
+Below are photos of students working during a Cover-the-White class.  
 
 ![artclass image](./images/class4.jpg)
 
@@ -15,6 +15,8 @@ Below are photos taken during a previous Cover the White class as well as a sele
 ![artclass image](./images/class1.jpg)
 
 ![artclass image](./images/class3.jpg)
+
+Below are photos of student artwork created during zoom classes and emailed to Cover-the-White. The artwork demonstrates diverse styles in both realistic and abstract styles.  
 
 ![artwork image](./images/artwork1.jpg)
 

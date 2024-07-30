@@ -13,7 +13,7 @@ Whether you have never painted before or have painted most of your life, Cover t
 
 Our painting lessons will offer a broad artistic experience. Rather than focus only on artwork, this painting class focuses on the creative process. Evocative, captivating paintings are often the collateral, radiant result!
 
-As an Art Educator, I admire the genre of young children’s art which is extraordinarily rich, communicative, captivating. In our classes, progress will be facilitated by fearless self-exploration and practice. Our painting lessons will encourage your “inner child” to express itself and have fun!
+As an Art Educator, I admire the genre of young children’s art which is extraordinarily rich, communicative, captivating. In our classes, progress will be facilitated by fearless self-exploration and practice. Our painting lessons will encourage your “inner child” to express itself and have fun! We remember Pablo Picasso’s sage words: “Every child is an artist. The problem is how to remain an artist once we grow up.”
 
 When appropriate, I will weave classic art concepts like perspective, color theory and composition throughout our lessons. CTW classes will provide a broad range of artistic instruction.
 
