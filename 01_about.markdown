@@ -5,7 +5,12 @@ permalink: /about/
 navigation_weight: 1
 ---
 
-### Philosophy
+### Overview
+
+Cover-the-White classes provide relaxed, enjoyable – even FUN – art experiences in an educational  
+environment with a professional instructor. 
+
+### Introduction
 
 Whether you have never painted before or have painted most of your life, Cover the White classes are personalized for you while occurring in group settings. Students progress at their own pace but benefit from sharing classmates’ understandings.
 

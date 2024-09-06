@@ -4,6 +4,8 @@ title: Bio
 permalink: /bio/
 ---
 
+![Photo of the Instructor](./images/profile.jpeg)
+
 Noreen Findlan Storch, Instructor
 
 ### Artist’s Statement
