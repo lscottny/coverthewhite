@@ -7,8 +7,8 @@ layout: page
 
 ![CTW Logo](./images/CTW_logo.jpg)
 
-## **Professional Painting Instruction for beginners**  
-## **and trained artists of all ages!**  
+## **Relaxed, Fun Art Classes**  
+## **with professional instruction,**  
 ### **In person & on Zoom**  
 
 •	Have fun tapping into your “inner child” and learning new ways of seeing the world.  
